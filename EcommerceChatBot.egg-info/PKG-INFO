@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: EcommerceChatBot
+Version: 0.0.0
+Author: Omkar Singh
+Author-email: singhomkar20.1995@gmail.com
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask

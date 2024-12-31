@@ -1,0 +1,11 @@
+README.md
+setup.py
+EcommerceChatBot.egg-info/PKG-INFO
+EcommerceChatBot.egg-info/SOURCES.txt
+EcommerceChatBot.egg-info/dependency_links.txt
+EcommerceChatBot.egg-info/requires.txt
+EcommerceChatBot.egg-info/top_level.txt
+ecommbot/__init__.py
+ecommbot/data_converter.py
+ecommbot/ingest.py
+ecommbot/retrieval_generation.py
